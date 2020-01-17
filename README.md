@@ -36,6 +36,8 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
+| Iffah Mohamad Saufi | Section 001     | ivm5141             | <https://ivm5141.github.io/Saufi-Demo-Stat184/> |     
+
 
 
 <br>
